@@ -1,0 +1,10 @@
+# my filter
+
+*.pth
+*.tar
+*.tar.gz
+*.zip
+*.wav
+*.jpg
+*/data/*
+data/*
